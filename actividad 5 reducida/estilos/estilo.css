@@ -1,0 +1,38 @@
+:root{
+    /* Creo un color llamado --color-1eso */
+    --color-1eso: #F9E79F;
+    /* Creo un color llamado --color-2eso */
+    --color-2eso: #A9DFBF;
+}
+
+.nomenclatura-1eso{
+    /* Utilizo el color que he creado antes (--color-1eso) */
+    background-color: var(--color-1eso);
+    width: 50px;
+}
+
+.nomenclatura-2eso{
+    /* Utilizo el color que he creado antes (--color-2eso) */
+    background-color: var(--color-2eso);
+    width: 50px;
+}
+
+.primero-eso{
+    /* Utilizo el color que he creado antes (--color-1eso) */
+    background-color: var(--color-1eso) ;
+}
+
+.segundo-eso{
+    /* Utilizo el color que he creado antes (--color-2eso) */
+    background-color: var(--color-2eso);
+}
+
+.tabla-horario{
+    /* Me sirve para indicar que los bordes de las celdas no deben estar separados */
+    border-collapse: collapse;
+}
+
+.tabla-horario td, .tabla-horario th{
+    /* Especifico el borde de las celdas, para la tabla con clase "tabla-horario" */
+    border: 1px solid black;
+}

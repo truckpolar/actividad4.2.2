@@ -1,0 +1,182 @@
+h1{
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.informatica{
+    color: black;
+    background-color: #BFB7B7;
+    text-align: center;
+    margin: 5px;
+}
+.inglesoral{
+    color: black;
+    text-align: center;
+    background-color: #d17373;
+    margin: 5px;
+}
+.mate{
+    color: black;
+    text-align: center;
+    background-color: #F7FF00;
+    margin: 5px;
+}
+.valen{
+    color: black;
+    text-align: center;
+    background-color: #FFBD00;
+    margin: 5px;
+}
+.caste{
+    color: black;
+    text-align: center;
+    background-color: #FF83C9;
+    margin: 5px;
+}
+.historia{
+    color: black;
+    text-align: center;
+    background-color: #018317;
+    margin: 5px;
+}
+.latin{
+    color: black;
+    text-align: center;
+    background-color: #00ff2a;
+    margin: 5px;
+}
+.economia{
+    color: black;
+    text-align: center;
+    background-color: #00ffc8;
+    margin: 5px;
+}
+.ingles{
+    color: black;
+    text-align: center;
+    background-color: #ff0000;
+    margin: 5px;
+}
+.ef{
+    color: black;
+    text-align: center;
+    background-color: #71a3ff;
+    margin: 5px;
+}
+.valors{
+    color: black;
+    text-align: center;
+    background-color: #b700ff;
+    margin: 5px;
+}
+.tutoria{
+    color: black;
+    text-align: center;
+    background-color: #f5a7d4;
+    margin: 5px;
+}
+.pati{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: #910050;
+    margin: 5px;
+}
+.horario{
+    color: #ffffff;
+    text-align: center;
+    background-color: #000000;
+    margin: 5px;
+}
+.semana{
+    color: #ffffff;
+    text-align: center;
+    background-color: #000000;
+    margin: 5px;
+}
+.castenom{
+    color: black;
+    text-align: center;
+    background-color: #FF83C9;
+    width: 50px;
+}
+.economianom{
+    color: black;
+    text-align: center;
+    background-color: #00ffc8;
+    width: 50px;
+}
+.efnom{
+    color: black;
+    text-align: center;
+    background-color: #71a3ff;
+    width: 50px;
+}
+.historianom{
+    color: black;
+    text-align: center;
+    background-color: #018317;
+    width: 50px;
+}
+.informaticanom{
+    color: black;
+    background-color: #BFB7B7;
+    text-align: center;
+    width: 50px;
+}
+.inglesnom{
+    color: black;
+    text-align: center;
+    background-color: #ff0000;
+    width: 50px;
+}
+.inglesoralnom{
+    color: black;
+    text-align: center;
+    background-color: #d17373;
+    width: 50px;
+}
+.latinnom{
+    color: black;
+    text-align: center;
+    background-color: #00ff2a;
+    width: 50px;
+}
+.matenom{
+    color: black;
+    text-align: center;
+    background-color: #F7FF00;
+    width: 50px;
+}
+.patinom{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: #910050;
+    width: 50px;
+}
+.tutorianom{
+    color: black;
+    text-align: center;
+    background-color: #f5a7d4;
+    width: 50px;
+}
+.valennom{
+    color: black;
+    text-align: center;
+    background-color: #FFBD00;
+    width: 50px;
+}
+.valorsnom{
+    color: black;
+    text-align: center;
+    background-color: #b700ff;
+    width: 50px;
+}
+.tablap th ,td{
+    border: 1px solid black;
+    margin: 5px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+table{
+    font-family: 'Gloria Hallelujah', cursive;
+}
